@@ -1,0 +1,14 @@
+C9	470uF	180v
+C24	1000uF	25v
+C25	680uF	16v
+C25	1000uF	16v
+C27	120uF	25v (220uF on some versions, kits include 220uF)
+C28	100uF	16v
+C31	100uF	10v
+C33	220uF	16v
+C34	100uF	6.3v
+C35	10uF	25v
+C38	3.3uF	50v
+C40	5600uF	10v for non-X68K HD power supplies, 6800uF for HD (our kits include 6800uF)
+C41	5600uF	10v for non-X68K HD power supplies, 6800uF for HD (our kits include 6800uF)
+C42	2200uF	6.3v

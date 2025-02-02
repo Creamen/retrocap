@@ -1,0 +1,20 @@
+C03 10uF 6.3V
+C11 10uF 6.3V
+C14 47uF 6.3V
+C16 1uF 50V
+C19 47uF 6.3V some Lynx may have 63v parts installed here but only 50v are required
+C21 220uF 6.3V some Lynx may have 63v parts installed here but only 50v are required
+C23 10uF 35V
+C25 10uF 35V
+C27 10uF 6.3V
+C28 10uF 6.3V
+C32 2.2uF 50V
+C33 2.2uF 50V
+C37 1uF 50V
+C39 100uF 35V
+C41 470uF 10V
+C47 1uF 50V
+C53 47uF 6.3V
+C58 1uF 50V
+C60 47uF 6.3V
+C64 220uF 6.3V
