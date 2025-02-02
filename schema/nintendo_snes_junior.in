@@ -1,0 +1,9 @@
+C9 2.2uF 50V
+C14 33uF 25V
+C15 47uF 16V
+C16 33uF 25V (some will have 50V but these caps are
+C17 33uF 25V not required to be anywhere near this highly rated)
+C52 1000uF 25V (Not present on North American units)
+C58 10uF 16V
+C59 10uF 16V
+C60 220uF 6.3V
